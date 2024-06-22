@@ -13,7 +13,7 @@ This project showcases the integration of a fine-tuned Mixtral 7b model for chat
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/MistralFineTune_Mixtral_7x8B_Image_To_Text.git
    cd your-repository
    ```
 

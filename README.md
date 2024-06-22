@@ -7,6 +7,10 @@ This project showcases the integration of a fine-tuned Mixtral 7b model for chat
 
 ## Features
 
+https://github.com/zengdard/MistralFineTune_Mixtral_7x8B_Image_To_Text/assets/61885397/111114e7-eefc-4c71-9a31-d8dc5d93abd0
+
+
+
 - Perform chat completion using a fine-tuned Mixtral 7b model.
 - Retrieve and display ASCII art representations of images corresponding to specific text prompts from a dataset.
 

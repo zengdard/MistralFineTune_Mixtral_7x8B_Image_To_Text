@@ -1,4 +1,5 @@
 # MistralFineTune_Mixtral_7x8B_Image_To_Text
+![mistral_ft](https://github.com/zengdard/MistralFineTune_Mixtral_7x8B_Image_To_Text/assets/61885397/6eaa00df-dc04-4ed3-ab28-f9e167e67dcb)
 
 ## Overview
 
